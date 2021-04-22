@@ -2,7 +2,7 @@
 
 ### About Me
 Hi, I'm UnrealApex
-I'm a new software developer based in the United States. I'm interested in web development, data science, and game development
+<p>I'm a new software developer based in the United States. I'm interested in web development, data science, and game development</p>
 
 ### What I'm Currently Working On
 - Learning how to be a full stack web developer
