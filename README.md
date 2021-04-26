@@ -16,5 +16,3 @@ Hi, I'm UnrealApex
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=unrealapex)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unrealapex)](https://github.com/anuraghazra/github-readme-stats)
-
