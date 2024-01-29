@@ -6,6 +6,7 @@
 
 body {
   background-color: var(--bg-color);
+  zoom: 1.5;
 }
 
 a:visited {
