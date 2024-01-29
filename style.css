@@ -12,8 +12,6 @@ a:visited {
   color: maroon;
 }
 
-/* fix nerd font, happens when typing light */
-
 :is(h2, h3, h4, h5, h6) {
   display: table;
   padding: 0.4rem;
