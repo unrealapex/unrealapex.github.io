@@ -26,6 +26,10 @@ a {
   color: green;
 }
 
+header {
+  margin: 1rem;
+}
+
 .reset {
   color: var(--fg-color) !important;
   background-color: var(--bg-color) !important;
