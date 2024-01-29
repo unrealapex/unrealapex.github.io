@@ -9,7 +9,7 @@ body {
 }
 
 a:visited {
-  color: green;
+  color: maroon;
 }
 
 /* fix nerd font, happens when typing light */
@@ -23,7 +23,7 @@ a:visited {
 
 
 a {
-  color: maroon;
+  color: green;
 }
 
 .reset {
