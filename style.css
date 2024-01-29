@@ -1,4 +1,42 @@
- ul.no-bullets {
+* {
+  --fg-color: black;
+  --bg-color: lavenderblush;
+  --roundness: 0.4rem;
+}
+
+body {
+  background-color: var(--bg-color);
+}
+
+a:visited {
+  color: green;
+}
+
+/* fix nerd font, happens when typing light */
+
+:is(h2, h3, h4, h5, h6) {
+  display: table;
+  padding: 0.4rem;
+  background-color: lightpink;
+  border-radius: var(--roundness);
+}
+
+
+a {
+  color: maroon;
+}
+
+.reset {
+  color: var(--fg-color) !important;
+  background-color: var(--bg-color) !important;
+}
+
+
+a.reset {
+  text-decoration: none;
+}
+
+ul.no-bullets {
   list-style-type: none; /* Remove bullets */
   padding: 0; /* Remove padding */
   margin: 0; /* Remove margins */
