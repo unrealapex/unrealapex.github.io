@@ -1,0 +1,5 @@
+plugins:
+  - jekyll-feed
+title: aaron's website
+description: aaron's thoughts on life, computers, and beyond
+author: aaron
