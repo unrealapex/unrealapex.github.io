@@ -30,6 +30,10 @@ header {
   margin: 1rem;
 }
 
+footer {
+  margin-top: 1rem;
+}
+
 .reset {
   color: var(--fg-color) !important;
   background-color: var(--bg-color) !important;
