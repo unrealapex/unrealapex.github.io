@@ -24,7 +24,6 @@ a:visited {
   border-radius: var(--roundness);
 }
 
-
 a {
   color: green;
 }
@@ -37,7 +36,6 @@ header {
   color: var(--fg-color) !important;
   background-color: var(--bg-color) !important;
 }
-
 
 a.reset {
   text-decoration: none;
