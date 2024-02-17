@@ -9,6 +9,8 @@ body {
   /* NOTE: firefox has not implemented this yet */
   zoom: 1.5;
   padding: 2rem;
+  margin: auto;
+  width: 50%;
 }
 
 a:visited {
