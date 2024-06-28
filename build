@@ -1,0 +1,17 @@
+#!/bin/sh
+
+# sourcehut username
+user=unrealapex
+archive=site.tar.gz
+
+if [ ! "$(command -v hut)" ];  then
+  exit
+fi
+
+if [ ! -f "$HOME"/.config/hut/config ]; then
+  hut init || exit
+fi
+
+tar --create --verbose --gzip *.html *.css blog > "$archive"
+hut pages publish --domain $user.srht.site "$archive"
+
